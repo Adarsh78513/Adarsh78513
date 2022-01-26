@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adarsh78513
-- 👀 I’m interested in web development and making games.
-- 🌱 I’m currently learning python and web development.
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in Artificial Inteligence, web development and making games.
+- 🌱 I’m know python, Java, C++ and web development.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 Reach me at email-adrsrj@gmail.com
 
 <!---
